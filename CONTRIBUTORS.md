@@ -1,5 +1,5 @@
 CONTRIBUTORS
 ============
 
-Eshaa Bhasin 
+ - Eshaa Bhasin 
  - Milindu Sanoj Kumarage (agentmilindu)
